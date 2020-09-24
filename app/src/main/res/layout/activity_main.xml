@@ -31,7 +31,7 @@
             android:layout_weight="1"
             android:ems="10"
             android:inputType="textPersonName"
-            android:hint="@string/et_reminder" />
+            android:text="@string/et_reminder" />
 
         <Button
             android:id="@+id/btnAddReminder"
@@ -41,5 +41,4 @@
             android:text="@string/btn_add_reminder" />
 
     </LinearLayout>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
